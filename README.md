@@ -18,12 +18,8 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-
-=======
+![webpage](assets/_C__Users_mateu_Bootstrap-Portfolio_index.html.png "fullweb")
     
-    ![webpage](assets/images/_C__Users_mateu_Bootstrap-Portfolio_index.html.png)
-    
->>>>>>> c8d9715e2d057174a6ecdb224493c2bb16c1cb37
 
 ## Credits
 
@@ -58,3 +54,6 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
+
+[def]: assets/images/_C__Users_mateu_Bootstrap-Portfolio_index.html.png
