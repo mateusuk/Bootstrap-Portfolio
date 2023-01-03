@@ -72,12 +72,13 @@ font-family: "Poppins", sans-serif;
   text-align: center;
 }
 
-.skills-section {
-  padding-top: 2rem;
+.skills {
+  background-color: lightgray;
 }
 
+
 .subsectionHeading{
-  text-align:start;
+  text-align:center;
 }
 .progress-bar{
   background-image: linear-gradient(to bottom , rgb(201, 201, 98), green);
