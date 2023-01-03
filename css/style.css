@@ -43,6 +43,10 @@
   align-items: center;
   justify-content: center;
 }
+.jumbotron.background {
+  margin-bottom: 0;
+
+}
 
 .button{
   background-color: green;
